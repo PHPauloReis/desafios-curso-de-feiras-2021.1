@@ -1,0 +1,15 @@
+Olá ${CUSTOMER_NAME}, tudo bem!?
+
+Até o momento não identificamos o pagamento da mensalidade de ${MONTH} de ${YEAR} com vencimento para ${INVOICE_EXPIRATION} refere ao seu plano ${PLAN_NAME} com valor de R$ ${PLAN_PRICE}.
+
+O não pagamento até ${DEADLINE} implicará em suspensão dos serviços e cobrança de juro no valor de R$ ${INTEREST} e mora diária no valor de R$ ${ARREARS}.
+
+Segue abaixo seu histórico de pagamentos:
+
+${PAYMENT_HISTORY}
+
+Caso o pagamento já tenha sido realizado, peço que desconsidere este e-mail.
+
+Atenciosamente, ${SENDER_NAME}.
+${SENDER_EMAIL}
+${SENDER_WEBSITE}

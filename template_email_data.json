@@ -1,0 +1,34 @@
+{
+    "customer_name": "Lulonaro Messias Petrolão",
+    "invoice": {
+        "month": "Janeiro",
+        "year": 2021,
+        "plan_name": "Plano Gold Advanced",
+        "plan_price": 219.9,
+        "invoice_expiration": "2021-01-10",
+        "deadline": "2021-01-17",
+        "fees": {
+            "interest": 4,
+            "arrears": 0.1
+        }
+    },
+    "payment_history": [
+        {
+            "month": "Dezembro",
+            "year": 2020,
+            "payment_date": "2020-12-23",
+            "value": 222.53
+        },
+        {
+            "month": "Novembro",
+            "year": 2020,
+            "payment_date": "2020-11-22",
+            "value": 222.49
+        }
+    ],
+    "sender": {
+        "name": "Rental Games",
+        "email": "financeiro@rentalgames.com.br",
+        "website": "www.rentalgames.com.br"
+    }
+}
