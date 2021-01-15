@@ -1,0 +1,53 @@
+{
+    "customer_name": "Lulonaro Messias Petrolão",
+    "payment_history": [
+        {
+            "month": "Dezembro",
+            "year": 2020,
+            "payment_date": "2020-12-23",
+            "value": 222.53
+        },
+        {
+            "month": "Novembro",
+            "year": 2020,
+            "payment_date": "2020-11-22",
+            "value": 222.49
+        },
+        {
+            "month": "Outubro",
+            "year": 2020,
+            "payment_date": "2020-11-11",
+            "value": 201.50
+        },
+        {
+            "month": "Setembro",
+            "year": 2020,
+            "payment_date": "2020-11-05",
+            "value": 180
+        },
+        {
+            "month": "Julho",
+            "year": 2019,
+            "payment_date": "2020-12-23",
+            "value": 222.53
+        },
+        {
+            "month": "Junho",
+            "year": 2019,
+            "payment_date": "2020-11-22",
+            "value": 222.49
+        },
+        {
+            "month": "Janeiro",
+            "year": 2018,
+            "payment_date": "2020-11-11",
+            "value": 201.50
+        },
+        {
+            "month": "Setembro",
+            "year": 2020,
+            "payment_date": "2020-11-05",
+            "value": 180
+        }
+    ]
+}
