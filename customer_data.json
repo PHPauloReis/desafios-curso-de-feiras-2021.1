@@ -16,37 +16,37 @@
         {
             "month": "Outubro",
             "year": 2020,
-            "payment_date": "2020-11-11",
+            "payment_date": "2020-10-11",
             "value": 201.50
         },
         {
             "month": "Setembro",
             "year": 2020,
-            "payment_date": "2020-11-05",
+            "payment_date": "2020-09-05",
             "value": 180
         },
         {
             "month": "Julho",
             "year": 2019,
-            "payment_date": "2020-12-23",
+            "payment_date": "2019-07-23",
             "value": 222.53
         },
         {
             "month": "Junho",
             "year": 2019,
-            "payment_date": "2020-11-22",
+            "payment_date": "2019-06-22",
             "value": 222.49
         },
         {
             "month": "Janeiro",
             "year": 2018,
-            "payment_date": "2020-11-11",
+            "payment_date": "2018-01-11",
             "value": 201.50
         },
         {
             "month": "Setembro",
-            "year": 2020,
-            "payment_date": "2020-11-05",
+            "year": 2017,
+            "payment_date": "2017-09-05",
             "value": 180
         }
     ]
